@@ -1,5 +1,5 @@
-# calc-all
-conversione in binario, hex esa esadecimale, decimale e ottale
+# App calc-all
+ - conversione in binario, hex esa esadecimale, decimale e ottale
 
 ## INIZIO
 
