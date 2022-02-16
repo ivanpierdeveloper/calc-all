@@ -161,7 +161,7 @@ input[type=email],
 input[type=number],
 input[type=customized] {
     display: block;
-    width: 96%;
+    width: 88%;
     height: 30px;
     border: 1px solid var(--secondary);
     border-radius: 8px;
