@@ -3,9 +3,9 @@
 
 ## INIZIO
 <center>
-<img src="img-1of2.png" alt="Sorry, not image" width="800", height="300" />
+<img src="img/all/img-1of2.png" alt="Sorry, not image" width="1000", height="300" />
 <br />
-<img src="img-2-of2.png" alt="Sorry, not image" width="800", height="300" />
+<img src="img/all/img-2of2.png" alt="Sorry, not image" width="1000", height="300" />
 </center>
 
 ## FINE
